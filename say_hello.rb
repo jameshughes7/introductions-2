@@ -1,1 +1,1 @@
-puts "Hello <Gabriel>!"
+puts "Hello <Eric Cantona>!"
